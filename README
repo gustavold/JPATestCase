@@ -1,0 +1,1 @@
+Changing fetch type from eager to lazy in entity Groups makes it work. Why?
